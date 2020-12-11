@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Code everyday for fun.
 
-
+<br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
