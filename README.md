@@ -49,6 +49,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/xxx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wai%20Yan%20Leung-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:waiyanleung@gtech.edu"><img alt="Email" src="https://img.shields.io/badge/Email-waiyanleung@gtech.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
