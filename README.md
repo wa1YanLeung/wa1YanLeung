@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Wai Yan.</h2>
 
+<br/>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
@@ -10,6 +12,7 @@
 - ✍️ &nbsp; Code everyday for fun.
 
 <br/>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -42,9 +45,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+
 </a>
 
 <br/>
