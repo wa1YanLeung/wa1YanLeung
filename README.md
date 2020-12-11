@@ -1,7 +1,6 @@
 <h2> Hey there! I'm Wai Yan.</h2>
 
 <br/>
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
