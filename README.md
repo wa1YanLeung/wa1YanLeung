@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science at Georgia Tech.
+- 🎓 &nbsp; Studying Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a>.
 - 💼 &nbsp; Worked as software research assistant at University of Michigan.
 - 👯 &nbsp; Looking for a software development internship.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
