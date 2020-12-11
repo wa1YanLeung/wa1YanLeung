@@ -1,9 +1,9 @@
 
-<h1> Hey there! I'm Wai Yan.</h1>
+<h2> Hey there! I'm Wai Yan.</h2>
 
 <br/>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at Georgia Tech.
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -46,7 +46,7 @@
 
 <br/>
 
-<h2> 🤝🏻 &nbsp;Connect with Me </h2>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
