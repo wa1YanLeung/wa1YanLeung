@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at <a href="https://www.gatech.edu/">Georgia Tech</a>.
-- 💼 &nbsp; Worked as software research assistant at University of Michigan.
+- 💼 &nbsp; Worked as software research assistant at <a href="https://umich.edu/">University of Michigan</a>.
 - 👯 &nbsp; Looking for a software development internship.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Code everyday for fun.
