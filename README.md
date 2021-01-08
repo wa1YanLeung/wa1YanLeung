@@ -10,7 +10,7 @@
 - 💼 &nbsp; Worked as software research assistant at <a href="https://umich.edu/">University of Michigan</a>.
 - 👯 &nbsp; Looking for a software development internship.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- 😄 &nbsp; Code everyday for fun.
+- 😄 &nbsp; Code everyday for brain-training and pleasure.
 
 <br/>
 
