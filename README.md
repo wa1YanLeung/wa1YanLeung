@@ -50,5 +50,5 @@
 
 <p>
 <a href="https://www.linkedin.com/in/wai-yan-leung-80a44a203/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Wai%20Yan%20Leung-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:1csyuy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1csyuy@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<!-- <a href="mailto:1csyuy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1csyuy@gmail.com-blue?style=flat-square&logo=gmail"></a> -->
 </p>
