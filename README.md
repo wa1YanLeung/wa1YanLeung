@@ -7,9 +7,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>.
-- 💼 &nbsp; Worked as software research assistant at <a href="https://umich.edu/">University of Michigan</a> and at <a href="https://www.emich.edu/">Eastern Michigan University</a>.
-- 👯 &nbsp; Looking for a software developer internship.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💼 &nbsp; Building websites for <a href="https://www.queensweb.org/">Queen's Web</a> and <a href="https://www.getinstahub.com/">Instahub</a>.
+- 👯 &nbsp; Looking for a software developer job.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Technologies.
 - 😄 &nbsp; Code everyday for brain-training and pleasure.
 
 <br/>
