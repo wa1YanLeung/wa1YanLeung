@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science at <a href="https://www.gatech.edu/">Georgia Institute of Technology</a>.
-- 💼 &nbsp; Building websites for <a href="https://www.queensweb.org/">Queen's Web</a> and <a href="https://www.getinstahub.com/">Instahub</a>.
+- 💼 &nbsp; Built websites for <a href="https://www.queensweb.org/">Queen's Web</a> and <a href="https://www.getinstahub.com/">Instahub</a>.
 - 👯 &nbsp; Looking for a software developer job.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Web Technologies.
 - 😄 &nbsp; Code everyday for brain-training and pleasure.
